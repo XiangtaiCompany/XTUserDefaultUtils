@@ -1,0 +1,7 @@
+XTUserDefaultUtils.xcodeproj/xcuserdata/
+XTUserDefaultUtils.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+XTUserDefaultUtils.xcodeproj/project.xcworkspace/xcuserdata/
